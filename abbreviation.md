@@ -1,0 +1,1 @@
+MCP = Maze Compressing Process
